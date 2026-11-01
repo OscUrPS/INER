@@ -1,9 +1,9 @@
 # Time Series Analysis of Drug Consumption during the COVID-19 Pandemic at a High-Specialty Hospital in Mexico
 
 ## Authors
-- Oscar Uriel Perez-Salazar
+- Oscar Uriel Perez Salazar
 - Victor Muñiz Sanchez 
-- Mariana E. Martínez-Sánchez
+- Mariana E. Martínez Sánchez
 
 ## Institutes
 - Centro de Investigación en Matemáticas AC Unidad Monterrey. Monterrey, Mexico.
@@ -11,11 +11,13 @@
 - Universidad Nacional Autónoma de México, Licenciatura en Investigación Biomédica Básica.  CdMx, México.
 
 ## Content
+- Code: contains the developed code for data modeling and figures.
+- Fig: contains the created figures for data visualization.
 
 ## Contact
-- Oscar Uriel Perez-Salazar (oscar.salazar@cimat.mx)
+- Oscar Uriel Perez Salazar (oscar.salazar@cimat.mx)
 - Victor Muñiz Sanchez (victor_m@cimat.mx)
-- Mariana E. Martínez-Sánchez (maresther.martinez@iibiomedicas.unam.mx)
+- Mariana E. Martínez Sánchez (maresther.martinez@iibiomedicas.unam.mx)
 
 ## Acknowledgments
 This work was supported by the Secretaría de Ciencias, Humanidades, Tecnología e Innovación (SECIHTI, formerly CONAHCYT) project CBF-2025-G-1031.
