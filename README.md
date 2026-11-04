@@ -3,7 +3,7 @@
 ## Authors
 - Oscar Uriel Perez Salazar
 - Victor Muñiz Sanchez 
-- Mariana E. Martínez Sánchez
+- Mariana Esther Martínez Sánchez
 
 ## Institutes
 - Centro de Investigación en Matemáticas AC Unidad Monterrey. Monterrey, Mexico.
@@ -11,13 +11,13 @@
 - Universidad Nacional Autónoma de México, Licenciatura en Investigación Biomédica Básica.  CdMx, México.
 
 ## Content
-- Code: contains the developed code for data modeling and figures.
-- Fig: contains the created figures for data visualization.
+- Code: contains the developed code for data modeling and figures included in the article.
+- Fig: contains the created figures for data visualization included in the article and supplementary information like the table with models results.
 
 ## Contact
 - Oscar Uriel Perez Salazar (oscar.salazar@cimat.mx)
 - Victor Muñiz Sanchez (victor_m@cimat.mx)
-- Mariana E. Martínez Sánchez (maresther.martinez@iibiomedicas.unam.mx)
+- Mariana Esther Martínez Sánchez (maresther.martinez@iibiomedicas.unam.mx)
 
 ## Acknowledgments
 This work was supported by the Secretaría de Ciencias, Humanidades, Tecnología e Innovación (SECIHTI, formerly CONAHCYT) project CBF-2025-G-1031.
